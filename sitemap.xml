@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://hpsjnewsyahoo.tw/%E8%8F%AF%E6%99%AE%E6%8A%95%E8%B3%87%E9%A0%90%E6%B8%AC2025%E5%B9%B4%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E6%8A%93%E4%BD%8F%E4%BA%94%E5%A4%A7%E6%96%B9%E5%90%91.html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://hpsjnewsyahoo.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
